@@ -6,5 +6,4 @@ Jets.application.configure do
   # Docs: http://rubyonjets.com/docs/email-sending/
   
   config.action_mailer.show_previews = true
-
 end
